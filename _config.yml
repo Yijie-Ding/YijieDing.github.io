@@ -12,7 +12,7 @@ title                    : "Ding Yijie"
 title_separator          : "-"
 name                     : &name "Ding Yijie"
 description              : &description "personal description"
-url                      : https://yijie-ding.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://yj-ding.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -25,7 +25,7 @@ author:
   name             : "Yijie Ding, 丁一杰"
   pronouns         : # example: "she/her"  
   bio              : "M.Eng in Computer Science @ NTU"
-  location         : "Earth"
+  location         : "Singapore"
   # employer         : "Nanyang Technological University"
   uri              : # URL
   email            : "yijieding95218[at]gmail.com" 
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/Yijie-Ding"
+  github           : "Yijie-Ding"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "yijie-ding-%E4%B8%81%E4%B8%80%E6%9D%B0-2234a8166/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
